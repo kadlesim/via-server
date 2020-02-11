@@ -3,7 +3,7 @@ info:
   version: "0.0.1"
   title: VIA server App
 # during dev, should point to your local machine
-host: localhost:10010
+host: via-server.herokuapp.com
 # basePath prefixes all resource paths 
 basePath: /
 # 
